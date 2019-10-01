@@ -4,8 +4,9 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 ### Acerca de este libro.
 
 ### indice
-- Preparacion.
 - Como son las competencias.
+- Preparacion.
+- El lenguaje de programacion. 
 - Principales temas:
   - Busquedas.
   - Ordencion.
