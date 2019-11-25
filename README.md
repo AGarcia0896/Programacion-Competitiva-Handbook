@@ -21,6 +21,20 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 
 #### ¿ Que es la programacion Competitiva ? 
 
+### ¿ Como es que pensamos?
 
-#### Tips para comenzar
+#### Divide en venceras
 
+#### Complejidad del tiempo y el espacio.
+
+#### Recursividad
+
+#### Listas
+
+#### Strings
+
+#### Arboles
+
+#### Busqueda
+
+#### Ordenamiento 
