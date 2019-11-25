@@ -22,4 +22,5 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 #### ¿ Que es la programacion Competitiva ? 
 
 
-#### 5 Sencillos pasos para comenzar.
+#### Tips para comenzar
+
