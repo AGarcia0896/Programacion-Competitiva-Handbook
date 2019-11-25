@@ -21,9 +21,8 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 
 #### ¿ Que es la programacion Competitiva ? 
 
-### ¿ Como es que pensamos?
+#### ¿ Como es que pensamos?
 
-#### Divide en venceras
 
 #### Complejidad del tiempo y el espacio.
 
