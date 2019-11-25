@@ -27,14 +27,37 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 
 #### Complejidad del tiempo y el espacio.
 
+```Java
+
+```
 #### Recursividad
+
+```Java
+
+```
 
 #### Listas
 
+```Java
+
+```
+
 #### Strings
+
+```Java
+
+```
 
 #### Arboles
 
+```Java
+
+```
+
 #### Busqueda
 
+
+```Java
+
+```
 #### Ordenamiento 
