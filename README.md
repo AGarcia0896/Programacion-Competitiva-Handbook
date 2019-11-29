@@ -59,6 +59,36 @@ programa en C ++ todavía, ahora es un buen momento para comenzar a aprender.
 
 #### Complejidad del tiempo y el espacio.
 
+
+Complejidad de tiempo
+
+
+ Introducción
+
+ La complejidad del tiempo algorítmico está relacionada con la rapidez o lentitud de un algoritmo particular.  Definimos la complejidad como una función numérica T (n): tiempo versus el tamaño de entrada n.  Un algoritmo dado tomará diferentes cantidades de tiempo en las mismas entradas dependiendo de factores tales como: velocidad del procesador;  conjunto de instrucciones, velocidad del disco, marca del compilador, etc.
+
+ La solución consiste en estimar la eficiencia de cada algoritmo de forma asintótica.  Mediremos el tiempo T (n) como el número de "pasos" elementales (definidos de cualquier forma), siempre que cada uno de estos pasos lleve un tiempo constante.
+
+ Notaciones asintóticas
+
+ El objetivo de la complejidad computacional es clasificar los algoritmos de acuerdo con sus desempeños.  Representaremos la función de tiempo T (n) usando la notación "big-O" para expresar la complejidad del tiempo de ejecución de un algoritmo.  Por ejemplo, la declaración T (n) = O (n2) dice que un algoritmo tiene una complejidad de tiempo cuadrática.
+
+ Definición de "big Oh"
+
+ Big O describe específicamente el peor de los casos, y puede usarse para describir el tiempo de ejecución requerido o el espacio utilizado (por ejemplo, en la memoria o en el disco) por un algoritmo.
+
+ Ejemplos:
+
+ 1 = O (n)
+
+ n = O (n2)
+
+ log (n) = O (n)
+
+ 2 n + 1 = O (n)
+
+
+
 ```Java
 
 ```
