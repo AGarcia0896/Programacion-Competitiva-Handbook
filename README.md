@@ -89,6 +89,58 @@ Complejidad de tiempo
 
 
 
+#### Tiempo constante: O (1)
+
+ Se dice que un algoritmo se ejecuta en tiempo constante si requiere la misma cantidad de tiempo, independientemente del tamaño de entrada.
+
+ Ejemplos:
+
+ matriz: acceder a cualquier elemento
+
+ pila de tamaño fijo: métodos push y pop
+
+ cola de tamaño fijo: métodos en cola y en cola
+
+
+#### Tiempo lineal: O (n)
+
+ Se dice que un algoritmo se ejecuta en tiempo lineal si su ejecución de tiempo es directamente proporcional al tamaño de entrada, es decir, el tiempo crece linealmente a medida que aumenta el tamaño de entrada.
+
+ En el siguiente ejemplo, se podría encontrar una cadena coincidente durante cualquier iteración del bucle for y la función volvería antes, pero la notación Big O siempre asumirá el límite superior donde el algoritmo realizará el número máximo de iteraciones.
+
+
+
+```
+
+```
+
+Ejemplos:
+
+ matriz: búsqueda lineal, recorrido, encontrar mínimo
+
+ ArrayList: contiene el método
+
+ cola: contiene el método
+
+
+#### Tiempo logarítmico: O (log n)
+
+ Se dice que un algoritmo se ejecuta en tiempo logarítmico si su ejecución de tiempo es proporcional al logaritmo del tamaño de entrada.
+
+```
+
+```
+
+Ejemplo:
+
+ búsqueda binaria
+
+#### Tiempo cuadrático: O (n2)
+
+ Se dice que un algoritmo se ejecuta en tiempo logarítmico si su ejecución de tiempo es proporcional al cuadrado del tamaño de entrada.
+
+ Esto es común con algoritmos que involucran iteraciones anidadas sobre el conjunto de datos.  Las iteraciones anidadas más profundas darán como resultado O (N3), O (N4), etc.
+
 ```Java
 
 ```
