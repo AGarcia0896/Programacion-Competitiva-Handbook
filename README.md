@@ -158,10 +158,24 @@ Una funcion recursiva debe contar con los siguientes elementos:
   *  Un caso base simple
   *  Un conjunto de reglas, tambien conocidas como relacion de recurrencia.
   
+##### Ejercicios de recursion
 
+###### Invertir una cadena
 
-```Java
+Escribe una función que invierta una cadena. La cadena de entrada se proporciona como una matriz de caracteres char[].
+No asigne espacio adicional para otra matriz, debe hacerlo modificando la matriz de entrada  en el lugar con O (1) memoria adicional.
+Puede suponer que todos los caracteres consisten en caracteres ascii imprimibles .
 
+```js
+var reverseString = function(s) {
+        var helper = function(left, right){
+        if(left < right){
+           s[left], s[right] = s[right], s[left];
+            helper(left + 1, right - 1 );
+        }
+    };
+    return helper(0, s.length -1);
+};
 ```
 
 #### Listas
