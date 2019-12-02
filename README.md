@@ -109,6 +109,8 @@ Complejidad de tiempo
  En el siguiente ejemplo, se podría encontrar una cadena coincidente durante cualquier iteración del bucle for y la función volvería antes, pero la notación Big O siempre asumirá el límite superior donde el algoritmo realizará el número máximo de iteraciones.
 
 
+#### Tiempo lineal: O (n)
+#### Tiempo lineal: O (log n)
 
 ```
 
@@ -144,7 +146,19 @@ Ejemplo:
 ```Java
 
 ```
-#### Recursividad
+#### Recursion
+
+La recursion es uno de los temas mas importantes dentro de las ciencias de la computacion.Forma parte de los fundamentos de muchos algoritmos y estructuras de datos. Sin embargo, el concepto de recursividad puede ser complicado y tedioso para los programadores que van empezando. 
+
+**¿Que es la recursion?**
+La recursividad es una forma de resolver un problema usando una funcion que se llama a si misma.
+Puede parecer magico una funcion que se ejecute a si misma. Lo mas interesante es que cada vez que la funcion se llama a si misma, el problema se reduce en sub problemas. La recursion continua de forma indefinida hasta que la funcion llega a un estado en el que ya no puede seguir llamando asi misma.
+
+Una funcion recursiva debe contar con los siguientes elementos:
+  *  Un caso base simple
+  *  Un conjunto de reglas, tambien conocidas como relacion de recurrencia.
+  
+
 
 ```Java
 
@@ -175,3 +189,7 @@ Ejemplo:
 
 ```
 #### Ordenamiento 
+
+
+
+#### Algoritmos 
