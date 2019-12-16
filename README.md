@@ -3,6 +3,12 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
 
 ### Acerca de este libro.
 
+El propósito de este libro es darle una introducción completa a la programacion competitiva.
+Partiendo de la suposición de que ya conoce los conceptos básicos de la programación, pero no se necesita experiencia previa en programación competitiva.
+El libro está especialmente diseñado para estudiantes que desean aprender algoritmos y posiblemente participar en la Olimpiada Internacional de Informática (IOI) o en el Concurso Internacional de Programación (ICPC). Por supuesto, el libro también es totalmente adecuado para cualquier persona interesada en la programación competitiva.
+Se necesita mucho tiempo para convertirse en un buen programador competitivo, pero también es una oportunidad para aprender mucho. Puedes estar seguro de que obtendrá una buena comprensión  general de algoritmos si pasa tiempo leyendo el libro, resolviendo problemas
+y participando en concursos. El libro está en continuo desarrollo y puedes formar parte de los contribuidores agregando temas, ejercicios, ejemplos y proponiendo mejoras. Toda contribucion sera citada. 
+
 ### indice
 - Como son las competencias.
 - Preparacion.
