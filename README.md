@@ -15,7 +15,7 @@ Este es un libro publico en español en el cual encontraras tips, metodologias y
   - Programación Dinámica .
   - Manipulación de bits.
 - Ejercicios.
-- Mocks de preparacion.
+- Mocks de preparacion. 
 
 
 
@@ -197,9 +197,30 @@ var reverseString = function(s) {
 ```
 
 #### Sorting and Searching
+```Java
 
+```
 #### Backtracking
+```Java
+
+```
 #### Dynamic Programming
+```Java
+
+```
 #### Design
+```Java
+
+```
 #### Math
-#### Algoritmos 
+```Java
+
+```
+#### Commpetitive Mock 
+```Java
+
+```
+#### Interview Mock  
+```Java
+
+```
