@@ -25,6 +25,8 @@ y participando en concursos. El libro está en continuo desarrollo y puedes form
 
 
 
+
+
 #### ¿ Que es la programacion Competitiva ? 
 La programación competitiva combina dos temas: (1) el diseño de algoritmos y (2) la implementación de algoritmos.
 El diseño de algoritmos consiste en resolución de problemas y el pensamiento matemática. 
