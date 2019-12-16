@@ -190,20 +190,16 @@ var reverseString = function(s) {
 
 ```
 
-#### Arboles
+#### Trees
 
 ```Java
 
 ```
 
-#### Busqueda
+#### Sorting and Searching
 
-
-```Java
-
-```
-#### Ordenamiento 
-
-
-
+#### Backtracking
+#### Dynamic Programming
+#### Design
+#### Math
 #### Algoritmos 
